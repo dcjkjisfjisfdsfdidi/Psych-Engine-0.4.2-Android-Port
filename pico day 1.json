@@ -1,0 +1,122 @@
+{
+   "animations": [
+      {
+         "anim": "idle",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Pico Idle Dance",
+         "offsets": [
+            0,
+            0
+         ]
+      },
+      {
+         "anim": "singLEFT",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Pico Note Right0",
+         "offsets": [
+            65,
+            9
+         ]
+      },
+      {
+         "anim": "singRIGHT",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Pico NOTE LEFT0",
+         "offsets": [
+            -68,
+            -7
+         ]
+      },
+      {
+         "anim": "singRIGHTmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Pico NOTE LEFT miss",
+         "offsets": [
+            -60,
+            41
+         ]
+      },
+      {
+         "anim": "singLEFTmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Pico Note Right Miss",
+         "offsets": [
+            62,
+            64
+         ]
+      },
+      {
+         "anim": "singUP",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "pico Up note0",
+         "offsets": [
+            -29,
+            27
+         ]
+      },
+      {
+         "anim": "singDOWN",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Pico Down Note0",
+         "offsets": [
+            200,
+            -70
+         ]
+      },
+      {
+         "anim": "singDOWNmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "Pico Down Note MISS",
+         "offsets": [
+            210,
+            -28
+         ]
+      },
+      {
+         "anim": "singUPmiss",
+         "fps": 24,
+         "indices": [],
+         "loop": false,
+         "name": "pico Up note miss",
+         "offsets": [
+            -19,
+            67
+         ]
+      }
+   ],
+   "camera_position": [
+      0,
+      0
+   ],
+   "flip_x": true,
+   "healthbar_colors": [
+      183,
+      216,
+      85
+   ],
+   "healthicon": "pico-day-1",
+   "image": "characters/pico day 1",
+   "no_antialiasing": false,
+   "position": [
+      0,
+      300
+   ],
+   "scale": 1,
+   "sing_duration": 4
+}
